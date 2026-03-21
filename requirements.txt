@@ -1,0 +1,45 @@
+# LLM
+groq
+
+# Orchestration
+langchain
+langchain-community
+langchain-groq
+langchain-core
+
+# Embeddings
+sentence-transformers
+
+# Vector DB
+qdrant-client
+
+# Document parsing
+docling
+
+# Reranker
+flashrank
+
+# Auth
+PyJWT
+bcrypt
+
+# Guardrails
+presidio-analyzer
+presidio-anonymizer
+spacy
+
+# Frontend
+streamlit
+
+# Database
+sqlalchemy
+
+# Monitoring & Evaluation
+langsmith
+ragas
+datasets
+
+# Utilities
+python-dotenv
+pydantic
+loguru

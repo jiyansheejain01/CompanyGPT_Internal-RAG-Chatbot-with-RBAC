@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the employee leave policy?",
+    "ground_truth": "Employees are entitled to casual leave, sick leave and earned leave as per the HR policy in the employee handbook.",
+    "role": "hr"
+  },
+  {
+    "question": "What is the Q4 financial summary?",
+    "ground_truth": "The quarterly financial report contains revenue figures, expense breakdowns and net profit for Q4 2024.",
+    "role": "finance"
+  },
+  {
+    "question": "What marketing campaigns ran in 2024?",
+    "ground_truth": "The 2024 marketing report covers digital campaigns, Q4 marketing spend and performance metrics across channels.",
+    "role": "marketing"
+  },
+  {
+    "question": "What are the engineering standards?",
+    "ground_truth": "The engineering master document outlines coding standards, system architecture guidelines and technical best practices.",
+    "role": "engineering"
+  }
+]
